@@ -11,7 +11,7 @@
  * Encapsulation : Hiding Data
  * -> Support OOPS concept - Abstraction : Hiding implementation details
  * -> To impose rules and regulations on classes which are extremely free to do
- * whatever they want
+ * whatever they want.
  */
 public class InterfaceDemo {
     public static void main(String[] args) {
