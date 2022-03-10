@@ -22,6 +22,8 @@
  * Cannot call super() or this() in one constructor at the same time i,e. no-one
  * has preference over other
  * super class variable can refere to sub-class object but not vice-versa
+ * main method is only to start the method hence don't go instantiating objects
+ * of the class containing it
  * 
  */
 public class InheritanceDemo {
