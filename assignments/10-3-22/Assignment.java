@@ -69,8 +69,6 @@ final class Clerk extends Employee { // no one can subclass from Clerk/Programme
 }
 
 final class Programmer extends Employee { // no one can subclass from Clerk/Programmer/Manager
-    protected int salary = 30000;
-    public String designation = "PROGRAMMER";
     private int maxAllowedIncrement = 5000;
 
     Programmer() {
